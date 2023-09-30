@@ -36,7 +36,6 @@ xor - uma ou outra true mas não pode ser ambas
 || or
 
 */
-
 echo"Resultado do módulo: $modulo"; // echo seria printar na tela.
 
 ?>
